@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+:root {
+    height: 100vh;
+    background-color: #1E1E1E;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: "Rubik", sans-serif;
+}
